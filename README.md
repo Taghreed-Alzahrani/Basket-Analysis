@@ -13,6 +13,7 @@ This project analyzes e-commerce transaction data to discover association rules 
 Included Files:
 Basket_Analysis_task.ipynb: A notebook containing Python.
 market_Report.pdf: A report about the task.
+filtered_association_rules1.csv: after running the code here are the filtered rules to in a CSV file
 
 Dataset:
 This dataset contains transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based non-store online retailer that primarily sells unique all-occasion gifts. Many customers are wholesalers.
